@@ -1,0 +1,12 @@
+measure,value
+raw_generation_rows_plant_1,68778
+generation_timestamps_plant_1,3158
+raw_sensor_rows_plant_1,3182
+sensor_timestamps_plant_1,3182
+timestamps_only_in_generation,1
+timestamps_only_in_sensor,25
+timestamps_present_in_only_one_file,26
+hourly_rows_expected,816
+hourly_rows_with_any_missing_value,20
+hourly_rows_complete,796
+missing_cells,85
